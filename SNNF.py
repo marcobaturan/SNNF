@@ -11,7 +11,7 @@
     
     Se puede lograr ejecutar un conjunto de operaciones mentales de
     tipo simbólico. Éste programa es una representación abstracta
-    de bjao nivel de talles. Pero representa los estados internos
+    de bajo nivel de talles. Pero representa los estados internos
     de un nemonista a nivel general.
     ---[EN]---
         Computer simulation of the mental operations performed by
